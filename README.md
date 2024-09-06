@@ -12,8 +12,6 @@ https://github.com/TMElyralab/MuseTalk
  ![image](https://github.com/zhaoyun0071/MuseTalk-windows-GUI/blob/main/1.png)
 
  
-# B站介绍：
-https://www.bilibili.com/video/BV1Nm421H7SG
 
 # 更新记录
 
